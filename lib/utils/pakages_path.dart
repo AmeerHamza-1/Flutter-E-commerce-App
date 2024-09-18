@@ -1,0 +1,16 @@
+export './colors.dart';
+export './images.dart';
+export './strings.dart';
+export './styles.dart';
+export 'package:velocity_x/velocity_x.dart';
+export 'package:flutter/material.dart';
+export 'package:clothing_store/widgets/logsign_btn.dart';
+export 'package:clothing_store/widgets/customtext_field.dart';
+export 'package:clothing_store/widgets/log_sign.dart';
+export 'package:clothing_store/widgets/passtext_field.dart';
+export '../screens/onboarding_screen/screen1.dart';
+export 'package:clothing_store/screens/login_signup.dart/start_screen.dart';
+export 'package:clothing_store/screens/login_signup.dart/Login_screen.dart';
+export 'package:clothing_store/screens/login_signup.dart/signup.dart';
+export 'package:flutter_svg/flutter_svg.dart';
+export './list.dart';
